@@ -7,8 +7,6 @@ specialty foods from around the world. You are a member of the Data
 Analysis team, and your task is to help the management to understand
 what is going on in the company.
 
-The Entity-Relationship Diagram for the database is the following.
-![application process assignment.png](media/sql/northwind-ER.png)
 
 ## What are you going to learn?
 
